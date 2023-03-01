@@ -1,0 +1,8 @@
+- Query chain:
+ →Find: Target Application 'com.calculator.grid-dynamics-Dev'
+  ↪︎Find: Descendants matching type Window
+    ↪︎Find: Elements matching predicate '"MainViewController" IN identifiers'
+No matches found for Elements matching predicate '"MainViewController" IN identifiers' from input {(
+    Window (Main), {{0.0, 0.0}, {390.0, 844.0}}
+)}
+
